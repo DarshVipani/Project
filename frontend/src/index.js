@@ -6,6 +6,7 @@ import App from './CrudApp';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
+  //ALL ROUTES IN THE APP FILE
     <App></App>
   </>
 );
